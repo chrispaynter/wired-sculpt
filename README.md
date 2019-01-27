@@ -32,7 +32,7 @@ Replacement wired controller for the Microsoft Sculpt ergonomic keyboard
     Col 16 = 23
     Col 17 = 24
     Col 18 = 25
-    Red LED - = 26
+    Red LED + = 26
     Green LED + = 27
     LED and function switch ground = 28
 
